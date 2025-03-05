@@ -4,7 +4,7 @@ Tecnologias utilizadas
 - JavaScript (JS)
 - HTML
 - CSS
-- 
+  
 O que aprendi
 - Variáveis e tipos de dados
 - Condicionais (if/else)
